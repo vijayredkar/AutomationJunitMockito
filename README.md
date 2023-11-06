@@ -1,0 +1,2 @@
+# AutomationJunitMockito
+junit-mockito-automation
